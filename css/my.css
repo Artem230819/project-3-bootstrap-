@@ -1,0 +1,461 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    height: 130px;
+}
+nav{
+    margin-top: 10px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.menu_item{
+    font-size: 14px;
+    list-style-type: none;
+}
+.menu a {
+    text-decoration: none;
+    color: rgb(28, 28, 28);
+}
+.menu li{
+    margin-top: 9px;
+}
+.phone{
+    font-weight: bold;
+}
+.btn{
+    color: #fff;
+    background-color: #c91111;
+}
+.logo{
+    display: flex;
+    text-align: center;
+}
+.logo__text{
+    margin-top: 5px;
+}
+.header-bot__text{
+    margin-top: 8px;
+}
+.header_right{
+    display: flex;
+    margin-top: 8px;
+    justify-content: flex-end;
+}
+.header_right img{
+    margin-top: -7px;
+    margin-left: 10px;
+}
+.number a{
+    list-style-type: none;
+    color: rgb(28, 28, 28);
+    margin-right: 30px;
+    font-weight: bold;
+}
+
+
+
+.services{
+    background: url(../img/fon/shutterstock_399953872.png) no-repeat center / cover ;
+    height: 615px;
+}
+.home{
+    margin-top: 110px;
+    color: #fff;
+}
+
+.home__heading h1{
+        font-size: 32px;
+        font-weight: bold;
+        line-height: 1.563;
+}
+.home__middle{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+}
+.home__middle p{
+        font-size: 24px;
+        line-height: 1.333;   
+
+}
+.home__btn button{
+    width: 300px;
+    height: 65px;   
+    font-weight: bold; 
+    font-size: 18px; 
+}
+
+
+.advogrand{
+    height: 630px;
+}
+.heading_advogrand{
+    text-align: center;
+    margin-top: 90px;   
+}
+.heading_advogrand h2{
+    font-size: 30px;
+    color: rgb(28, 28, 28);
+    font-weight: bold;  
+}
+.advogrand_services{
+    display: flex;
+    margin-top: 100px;
+}
+.advogrand_services .text{
+    margin-left: 20px;
+}
+
+
+.about_services{
+    background:url(../img/fon/shutterstock_254582680.png) no-repeat center / cover;
+    height: 600px;
+ 
+}
+.about__text h2{
+        font-size: 30px;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        text-align: center;   
+        margin-top: 100px;   
+}
+.about__text p{
+        font-size: 16px;
+        color: rgb(255, 255, 255);
+        line-height: 1.25;
+        text-align: center;  
+        margin-top: 80px; 
+        margin-bottom: 80px;  
+}
+.about__figures{
+    text-align: center;
+}
+.about__numeral{
+        font-size: 48px;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        text-align: center;  
+}
+.about__desc{
+        font-size: 16px;
+        color: rgb(255, 255, 255);
+        line-height: 1.375;   
+}
+
+
+
+.heading h2{
+    margin-top: 100px;
+    margin-bottom: 102px;
+    text-align: center;
+}
+.provision_services .card{
+    justify-content: center;
+    text-align: center;   
+    border: none;
+}
+.provision_services .card .desc{
+    margin-top: 45px;
+
+}
+.provision_services .card-lust{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.heading_advanrages{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 80px;
+}
+.advantages-description{
+    display: flex;
+}
+
+.advantages-desc{
+    text-align: center;
+}
+.advantages-desc h4{
+        font-size: 16px;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        line-height: 2.857;
+        text-align: center;   
+}
+.advantages-desc ul{
+        font-size: 15px;
+        color: rgb(0, 0, 0);
+        line-height: 3.462;    
+}
+.advantages-desc li{
+    list-style-type: none;
+}
+.advantages-desc_green{
+    background-color: chartreuse; 
+}
+.advantages-desc_green h4{
+    color: rgb(255, 255, 255); 
+}
+.advantages-desc_green ul{
+    color: rgb(255, 255, 255); 
+}
+.advantages-desc-noneHeading{
+    margin-top: 50px;
+    padding: 0;
+}
+.advantages-desc .btn{
+    width: 300px;
+    height: 65px;
+}
+.advantages-desc img{
+    margin-left: 32px;
+}
+.advantages-desc strong{
+    margin-left: 15px;
+}
+.advantages-desc_lust{
+    text-align: start;
+    
+}
+
+
+
+
+.consultation{
+    background: url(../img/fon/shutterstock_263495984.png) no-repeat center / cover ;
+    height: 470px;
+}
+.consultation h2{
+    color: #fff;
+    margin-top: 90px;
+    margin-bottom: 55px;
+    text-align: start;
+}
+.actions{
+    display: flex;
+    margin-bottom: 20px;
+}
+.actions .number{
+        font-size: 18px;
+        color: rgb(228, 30, 30);
+        margin-right: 20px;   
+}
+.actions .decs{
+        font-size: 18px;
+        color: rgb(255, 255, 255); 
+}
+.consultation-img{
+    text-align: center;
+}
+.gPlay{
+    margin-top: 130px;
+    margin-bottom: 20px;
+}
+
+/* Партнеры Advogrand */
+
+.partners .heading{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.partners .item{
+    text-align: center;
+}
+
+
+
+
+
+.select-rate .header{
+    margin-top: 210px;
+    margin-bottom: 30px;
+}
+.select-rate h2{
+        font-size: 30px;   
+        margin-bottom: 30px;
+}
+.select-rate h4{
+        font-size: 18px;
+        line-height: 1.389;   
+}
+.select-rate .title{
+    display: flex;
+    justify-content: space-between;
+}
+.select-rate .compare{
+    display: flex;
+}
+.select-rate .btn{
+    margin-left: 20px;
+    border:2px solid #e42626 ;
+    background-color:#fff;
+    color: #e42626;
+    font-weight: bold;
+}
+.compare_btn{
+    margin-top: -6px;
+}
+.card{
+    border: none;
+    margin-top: 65px;
+    text-align: center;
+}
+.card .header_text{
+        font-size: 20px;
+        color: rgb(0, 0, 0);
+        line-height: 1.2;
+        text-align: center;   
+        margin-bottom: 30px;
+}
+.text li{
+    list-style-type: none;
+}
+.text_left{
+        font-size: 11px;
+        color: rgb(0, 0, 0);
+        line-height: 3.636;
+        float: left;
+        text-align: left;
+        margin-top: 30px;
+            
+}
+.text_right{
+        font-size: 11px;
+        color: rgb(0, 0, 0);
+        line-height: 3.636;
+        float: right;
+        text-align: right;
+        margin-top: 30px;
+}
+.price{
+    position: relative;
+    vertical-align:bottom;
+    margin-block-start: auto;
+}
+.price_text{
+        font-size: 13px;
+        color: rgb(0, 0, 0);
+        line-height: 3.077;     
+}
+.price_number{
+        font-size: 24px;
+        color: rgb(0, 0, 0);
+        line-height: 1.667; 
+        font-weight: bold;   
+}
+.condultation_btn button{
+    height: 50px;
+    width: 200px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.condultation_btn-red button{
+    background-color:#ff4921;
+}
+.condultation_btn-green button{
+    background-color:#00a100;
+}
+.condultation_btn-blue button{
+    background-color:#01348a;
+}
+.buy_btn button{
+    height: 50px;
+    width: 200px;
+    color: #fff;
+    background-color: #9a9a9a;
+    font-weight: bold;
+}
+
+
+
+
+
+
+.form_question{
+    margin-top: 280px;
+}
+.form_question h4{
+        font-size: 18px;
+        color: rgb(0, 0, 0); 
+        font-weight: bold;    
+}
+.form_question h6{
+        font-size: 14px;
+        color: rgb(0, 0, 0);   
+}
+input{
+    height: 50px;
+    width: 320px;
+    border-color: #dddddd;
+    margin-bottom: 30px;
+}
+.input_lust{
+    height: 80px;
+    width: 320px;
+}
+.form_question .btn{
+    width: 320px;
+    height: 63px;
+}
+.btn_text_bot{
+        font-size: 13px;
+        color: rgb(0, 0, 0);    
+        margin-left: 50px;
+        margin-top: 10px;
+      
+}
+
+.contacts{
+    line-height: 2;    
+}
+.form_question h2{
+        font-size: 30px;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+      margin-bottom: 50px;
+}
+.email a{
+    text-decoration: underline ;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+.footer{
+    background-color:#0e0e0e;
+    height: 130px;    
+    margin-top: 65px;
+}
+.footer_content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 37px;
+    margin-block-end: 1px;
+}
+.footer_left{
+    display: flex;
+}
+.footer_left img{
+    margin-top: -15px;
+    margin-left: 24px;
+}
+.footer .text{
+        font-size: 13px;
+        color: rgb(255, 255, 255);   
+}
